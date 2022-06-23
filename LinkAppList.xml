@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LinkAppList>
-	<LinkApp Type="NotFile" ID="1" Info="AquesTalk10 F1（ゆっくり）で録音同時再生" >
+	<LinkApp Type="NotFile" ID="101" Info="AquesTalk10 F1（ゆっくり）で録音同時再生" >
 		<Detail>AquesTalk10 F1（いわゆるゆっくり）で録音と同時再生する（本体のダウンロード及び配置が必要）</Detail>
 		<DummyText>$dummyText$</DummyText>
 		<LinkAppName>VoiceLink_Aquest.exe</LinkAppName>
@@ -13,7 +13,7 @@
 		</Arguments>
 		<AppKillName>VoiceLink</AppKillName>
 	</LinkApp>
-	<LinkApp Type="NotFile" ID="2" Info="AquesTalk10 F2（ゆっくり）で録音同時再生" >
+	<LinkApp Type="NotFile" ID="102" Info="AquesTalk10 F2（ゆっくり）で録音同時再生" >
 		<Detail>AquesTalk10 F2（いわゆるゆっくり）で録音と同時再生する（本体のダウンロード及び配置が必要）</Detail>
 		<DummyText>$dummyText$</DummyText>
 		<LinkAppName>VoiceLink_Aquest.exe</LinkAppName>
@@ -26,7 +26,7 @@
 		</Arguments>
 		<AppKillName>VoiceLink</AppKillName>
 	</LinkApp>
-	<LinkApp Type="NotFile" ID="3" Info="AquesTalk10 M1（ゆっくり）で録音同時再生" >
+	<LinkApp Type="NotFile" ID="103" Info="AquesTalk10 M1（ゆっくり）で録音同時再生" >
 		<Detail>AquesTalk10 F2（いわゆるゆっくり）で録音と同時再生する（本体のダウンロード及び配置が必要）</Detail>
 		<DummyText>$dummyText$</DummyText>
 		<LinkAppName>VoiceLink_Aquest.exe</LinkAppName>
@@ -45,7 +45,7 @@
 		<LinkAppName>VoiceLink_VoiceVox.exe</LinkAppName>
 		<Arguments>
 			<LinkAppArgs>
-				<text>"text":"$dummyText$","talk":true</text>
+				<text>"text":"$dummyText$"</text>
 				<talk>"talk":true</talk>
 				<otherArgs>"speaker":2</otherArgs>
 			</LinkAppArgs>
@@ -58,7 +58,7 @@
 		<LinkAppName>VoiceLink_VoiceVox.exe</LinkAppName>
 		<Arguments>
 			<LinkAppArgs>
-				<text>"text":"$dummyText$","talk":true</text>
+				<text>"text":"$dummyText$"</text>
 				<talk>"talk":true</talk>
 				<otherArgs>"speaker":0</otherArgs>
 			</LinkAppArgs>
@@ -71,7 +71,7 @@
 		<LinkAppName>VoiceLink_VoiceVox.exe</LinkAppName>
 		<Arguments>
 			<LinkAppArgs>
-				<text>"text":"$dummyText$","talk":true</text>
+				<text>"text":"$dummyText$"</text>
 				<talk>"talk":true</talk>
 				<otherArgs>"speaker":6</otherArgs>
 			</LinkAppArgs>
