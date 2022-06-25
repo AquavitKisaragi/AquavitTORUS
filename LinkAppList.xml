@@ -390,4 +390,17 @@
 		</Arguments>
 		<AppKillName>VoiceLink</AppKillName>
 	</LinkApp>
+	<LinkApp Type="NotFile" ID="9908" Info="VOICEVOX 青山龍星(ノーマル）録音再生" >
+		<Detail>個人用動画編集用 VOICEVOXの青山龍星さんの声で録音と同時に再生をする（VOICEVOX起動中のみ）</Detail>
+		<DummyText>$dummyText$</DummyText>
+		<LinkAppName>VoiceLink_VoiceVox.exe</LinkAppName>
+		<Arguments>
+			<LinkAppArgs>
+				<text>"text":"$dummyText$"</text>
+				<talk>"talk":true</talk>
+				<otherArgs>"speaker":13,"speedScale":1.2,"pitchScale":-0.10,"intonationScale":2.0,"volumeScale":1,"prePhonemeLength":0.1,"postPhonemeLength":0.1,"outputSamplingRate":24000,"outputStereo":false</otherArgs>
+			</LinkAppArgs>
+		</Arguments>
+		<AppKillName>VoiceLink</AppKillName>
+	</LinkApp>
 </LinkAppList>
