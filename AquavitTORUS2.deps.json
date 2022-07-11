@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AquavitTORUS2/1.0.0": {
+        "dependencies": {
+          "Aquavit": "1.0.0"
+        },
+        "runtime": {
+          "AquavitTORUS2.dll": {}
+        }
+      },
+      "Aquavit/1.0.0": {
+        "runtime": {
+          "Aquavit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AquavitTORUS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aquavit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

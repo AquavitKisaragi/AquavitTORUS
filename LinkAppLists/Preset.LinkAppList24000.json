@@ -1,0 +1,540 @@
+{
+  "Infomation": "VOICEVOXをメインに使う（24.0KHz）中音質を基準にする",
+  "SoundPlayer": "VoiceLink_WAVPlayer.exe",
+  "LinkAplication": [
+    {
+      "ID": 1002,
+      "Info": "VOICEVOX 四国めたん(ノーマル)",
+      "Detail": "VOICEVOXの四国（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 2,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1000,
+      "Info": "VOICEVOX 四国めたん(あまあま)",
+      "Detail": "VOICEVOXの四国めたん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 0,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1006,
+      "Info": "VOICEVOX 四国めたん(ツンツン)",
+      "Detail": "VOICEVOXの四国めたん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 6,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1004,
+      "Info": "VOICEVOX 四国めたん(セクシー)",
+      "Detail": "VOICEVOXの四国めたん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 4,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1003,
+      "Info": "VOICEVOX ずんだもん(ノーマル）",
+      "Detail": "VOICEVOXのずんだもん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 3,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1001,
+      "Info": "VOICEVOX ずんだもん(あまあま）",
+      "Detail": "VOICEVOXのずんだもん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 1,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1007,
+      "Info": "VOICEVOX ずんだもん(ツンツン）",
+      "Detail": "VOICEVOXのずんだもん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 7,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1005,
+      "Info": "VOICEVOX ずんだもん(セクシー）",
+      "Detail": "VOICEVOXのずんだもん（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 5,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1008,
+      "Info": "VOICEVOX 春日部つむぎ(ノーマル）",
+      "Detail": "VOICEVOXの春日部つむぎ（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 8,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1010,
+      "Info": "VOICEVOX 雨晴はう(ノーマル）",
+      "Detail": "VOICEVOXの雨晴はう（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 10,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1009,
+      "Info": "VOICEVOX 波音リツ(ノーマル）",
+      "Detail": "VOICEVOXの波音リツ（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 9,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1011,
+      "Info": "VOICEVOX 玄野武宏(ノーマル）",
+      "Detail": "VOICEVOXの玄野武宏（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 11,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1012,
+      "Info": "VOICEVOX 白上虎太郎(ノーマル）",
+      "Detail": "VOICEVOXの白上虎太郎（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 12,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1013,
+      "Info": "VOICEVOX 青山龍星(ノーマル）",
+      "Detail": "VOICEVOXの青山龍星（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 13,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1014,
+      "Info": "VOICEVOX 冥鳴ひまり(ノーマル）",
+      "Detail": "VOICEVOXの冥鳴ひまり（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 14,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1016,
+      "Info": "VOICEVOX 九州そら(ノーマル）",
+      "Detail": "VOICEVOXの九州そら(ノーマル）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 16,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1015,
+      "Info": "VOICEVOX 九州そら(あまあま）",
+      "Detail": "VOICEVOXの九州そら(あまあま）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 15,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1018,
+      "Info": "VOICEVOX 九州そら(ツンツン）",
+      "Detail": "VOICEVOXの九州そら(ツンツン）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 18,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1017,
+      "Info": "VOICEVOX 九州そら(セクシー）",
+      "Detail": "VOICEVOXの九州そら(セクシー）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 17,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1019,
+      "Info": "VOICEVOX 九州そら(ささやき）",
+      "Detail": "VOICEVOXの九州そら(ささやき）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 19,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 1020,
+      "Info": "VOICEVOX モチノ・キョウコ(ノーマル）",
+      "Detail": "VOICEVOXのモチノ・キョウコ(ノーマル）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 20,
+        "speedScale": 1,
+        "pitchScale": 0,
+        "intonationScale": 1,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5001,
+      "Info": "VOICEVOX 設定値確認用四国めたん",
+      "Detail": "VOICEVOXの四国めたん（セクシー）から音声をする（設定を確認するために作っています。）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 4,
+        "speedScale": 0.8,
+        "pitchScale": 0,
+        "intonationScale": 1.1,
+        "volumeScale": 0.5,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5002,
+      "Info": "VOICEVOX 設定値確認用九州そら",
+      "Detail": "VOICEVOXの四国九州そら（ささやき）から音声をする（設定を確認するために作っています。）（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 19,
+        "speedScale": 1.2,
+        "pitchScale": 0,
+        "intonationScale": 2,
+        "volumeScale": 2,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5003,
+      "Info": "録音のみVOICEVOX 設定値確認用四国めたん",
+      "Detail": "録音専用",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 4,
+        "speedScale": 0.8,
+        "pitchScale": 0,
+        "intonationScale": 1.1,
+        "volumeScale": 0.5,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5005,
+      "Info": "VOICEVOX 青山龍星(ノーマル）",
+      "Detail": "個人用動画編集用 VOICEVOXの青山龍星（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 13,
+        "speedScale": 0.8,
+        "pitchScale": -0.15,
+        "intonationScale": 0.5,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5006,
+      "Info": "VOICEVOX 雨晴はう(ノーマル）",
+      "Detail": "個人動画編集用 VOICEVOXの雨晴はう（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 10,
+        "speedScale": 0.7,
+        "pitchScale": -0.05,
+        "intonationScale": 0.2,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5007,
+      "Info": "録音のみVOICEVOX 設定値確認用四国めたん",
+      "Detail": "録音専用",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 4,
+        "speedScale": 1,
+        "pitchScale": -0.1,
+        "intonationScale": 0.8,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+    },
+    {
+      "ID": 5008,
+      "Info": "VOICEVOX 青山龍星(ノーマル）",
+      "Detail": "個人用動画編集用 VOICEVOXの青山龍星（VOICEVOX起動中のみ）",
+      "LinkAppName": "VoiceLink_VoiceVox.exe",
+      "Arguments": {
+        "text": "$dummyText$",
+        "speaker": 13,
+        "speedScale": 1.2,
+        "pitchScale": -0.1,
+        "intonationScale": 2,
+        "volumeScale": 1,
+        "prePhonemeLength": 0.1,
+        "postPhonemeLength": 0.1,
+        "outputSamplingRate": 24000,
+        "outputStereo": false
+      }
+
+
+    }
+
+  ]
+}

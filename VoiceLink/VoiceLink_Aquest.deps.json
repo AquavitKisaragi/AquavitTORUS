@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VoiceLink_Aquest/2.0.0": {
+        "runtime": {
+          "VoiceLink_Aquest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VoiceLink_Aquest/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
